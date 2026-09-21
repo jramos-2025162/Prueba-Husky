@@ -18,7 +18,11 @@ Mini aplicación web desarrollada en JavaScript Vanilla que consume una API púb
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/jramos-2025162/Prueba-Husky.git](https://github.com/jramos-2025162/Prueba-Husky.git)
+   git clone https://github.com/jramos-2025162/Prueba-Husky.git
+2. **Instalar dependencias:**
+   ```bash
+   npm install --legacy-peer-deps
+   
 Captura de Pantalla, de ejecución exitosa en el sevidor
 
    <img width="510" height="931" alt="image" src="https://github.com/user-attachments/assets/616a1825-97ed-4dff-b1dd-d06fe799728e" />
