@@ -26,8 +26,9 @@ Mini aplicación web desarrollada en JavaScript Vanilla que consume una API púb
 Captura de Pantalla, de ejecución exitosa en el sevidor
 
    <img width="510" height="931" alt="image" src="https://github.com/user-attachments/assets/616a1825-97ed-4dff-b1dd-d06fe799728e" />
-
+   
 Captura de búsqueda exitosa por nombre de usuario si existe o no
+
    <img width="508" height="253" alt="image" src="https://github.com/user-attachments/assets/2b57b8cd-5f15-4276-b04c-6cda56f4a93d" />
    <img width="508" height="163" alt="image" src="https://github.com/user-attachments/assets/6c226864-678e-48a1-95d8-79f41186f193" />
 
